@@ -1,0 +1,79 @@
+{
+  "library": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "id": 2,
+      "title": "server",
+      "author": "typicode"
+    },
+    {
+      "id": 3,
+      "title": "json",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "user": "F Fitzgerald",
+      "text": "4 EEEEEEEEEEEEEEEEEEEEEEEEEEEstars",
+      "bookId": 1
+    },
+    {
+      "id": 2,
+      "user": "D Fitzgerald",
+      "text": "GGGGGGGGGGGGGGGGGGGGGGGGGGGrs",
+      "bookId": 1
+    },
+    {
+      "id": 3,
+      "user": "F Scott",
+      "text": "JJJJJJJJJJJJJJJJJJJJJJJJJJJJJJ",
+      "bookId": 1
+    },
+    {
+      "id": 4,
+      "user": "John Doe",
+      "text": "HAAAAAAAAAAA",
+      "bookid": "1"
+    }, 
+    {
+      "id": 5,
+      "user": "John Doe",
+      "text": "fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+      "bookid": "1"
+    }
+  ],
+  "users": [
+    {
+      "name": "F Fitzgerald"
+    },
+    {
+      "name": "D Fitzgerald"
+    },
+    {
+      "name": "F Scott"
+    }
+  ],
+  "likes": [
+    {
+      "commentid": 1,
+      "title": "json-server",
+      "count": 4
+    },
+    {
+      "commentid": 2,
+      "title": "json-server",
+      "count": 3
+    },
+    {
+      "commentid": 3,
+      "title": "json-server",
+      "count": 1
+    }
+  ]
+}
