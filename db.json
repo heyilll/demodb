@@ -19,44 +19,33 @@
   "comments": [
     {
       "id": 1,
-      "user": "F Fitzgerald",
-      "text": "4 EEEEEEEEEEEEEEEEEEEEEEEEEEEstars",
-      "bookId": 1
+      "user": "F. Fitzgerald",
+      "text": "Very entertaining",
+      "bookid": 1
     },
     {
       "id": 2,
-      "user": "D Fitzgerald",
-      "text": "GGGGGGGGGGGGGGGGGGGGGGGGGGGrs",
-      "bookId": 1
+      "user": "J.R.R. Tolkien",
+      "text": "This book was so fun!",
+      "bookid": 1
     },
     {
       "id": 3,
-      "user": "F Scott",
-      "text": "JJJJJJJJJJJJJJJJJJJJJJJJJJJJJJ",
-      "bookId": 1
+      "user": "B. Stoker",
+      "text": "The author is a genius.",
+      "bookid": 1
     },
     {
       "id": 4,
-      "user": "John Doe",
-      "text": "HAAAAAAAAAAA",
+      "user": "J. Doe",
+      "text": "5/10",
       "bookid": "1"
-    }, 
+    },
     {
       "id": 5,
-      "user": "John Doe",
-      "text": "fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+      "user": "A. Graham",
+      "text": "Where does Dracula keep his savings? At the blood bank.",
       "bookid": "1"
-    }
-  ],
-  "users": [
-    {
-      "name": "F Fitzgerald"
-    },
-    {
-      "name": "D Fitzgerald"
-    },
-    {
-      "name": "F Scott"
     }
   ],
   "likes": [
